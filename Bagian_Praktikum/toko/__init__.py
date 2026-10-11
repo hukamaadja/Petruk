@@ -1,0 +1,1 @@
+"""Package toko: inventaris sederhana berbasis file."""
